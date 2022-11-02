@@ -135,6 +135,16 @@ const Users = {
       portfolio: "",
     },
   },
+"araishshaikh03": {
+  name: "Araish Shaikh",
+  branch: "IT",
+  description: "Tech lover",
+  links: {
+    github: "https://github.com/araish03",
+    instagram: "https://instagram.com/araishhhh_",
+    linkedin: "https://www.linkedin.com/",
+    portfolio: "",
+  },
   "neocollege": {
     name: "Prathamesh Nayak",
     branch: "IT",
@@ -157,5 +167,6 @@ const Users = {
       portfolio: "",
     },
   },
+  
 };
 export default Users;
