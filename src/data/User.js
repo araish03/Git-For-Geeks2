@@ -1,4 +1,16 @@
-const Users = {
+const Users = 
+      {
+      "araishshaikh03": {
+  name: "Araish Shaikh",
+  branch: "IT",
+  description: "Tech lover",
+  links: {
+    github: "https://github.com/araish03",
+    instagram: "https://instagram.com/araishhhh_",
+    linkedin: "https://www.linkedin.com/",
+    portfolio: "",
+  },
+      {
   "Priyankaa2503": {
     name: "Priyanka Ramachandran",
     branch: "IT",
@@ -146,7 +158,8 @@ const Users = {
       portfolio: "",
     },
   },
-  "MadAra-UcHiHa89": {
+  
+"MadAra-UcHiHa89": {
     name: "Aadil Saudagar",
     branch: "IT",
     description: "Exploring | Learning",
@@ -154,17 +167,6 @@ const Users = {
       github: "https://github.com/MadAra-UcHiHa89",
       instagram: "https://www.instagram.com/im_aadil_/?hl=en",
       linkedin: "https://www.linkedin.com/in/aadil-saudagar-7b467b1b1/",
-      portfolio: "",
-    },
-  },
-  "temp10": {
-    name: "Temp 10",
-    branch: "IT",
-    description: "Exploring | Learning",
-    links: {
-      github: "https://github.com/temp10",
-      instagram: "https://www.instagram.com/temp10/?hl=en",
-      linkedin: "https://www.linkedin.com/in/temp10/",
       portfolio: "",
     },
   },
